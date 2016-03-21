@@ -1,6 +1,5 @@
 # Max Metal Parts
 Parts for the TrickLaser Max Metal Platform
----
 
 These have not been printed yet, due to an issue with my current 3D printer (it is halfway torn apart at the moment).
 
